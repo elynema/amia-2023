@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "AMIA 2023" ] },
+    "summary": { "en": [ "Trying out some annotations" ] },
+    "items": [
+    ]
+}
